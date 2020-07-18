@@ -11,8 +11,8 @@
 <br />
 <br />
 
-Hi, I'm Rishi Raj Singh, a Flutter Developer and Deep Learning Enthusiast 🚀 from India. Currently, studying in Vellore Institute Of Technology, Vellore. 
-  <img align="right" alt="GIF" src="https://i.ibb.co/8BjrpB4/ezgif-1-98af4b7a8ce7.png" />
+Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and Deep Learning Enthusiast 🚀 from India. Currently, studying in Vellore Institute Of Technology, Vellore. 
+  <img align="right" alt="GIF" src="https://i.ibb.co/8BjrpB4/ezgif-1-98af4b7a8ce7.png" width = 500px />
   
 **About me:**
 
