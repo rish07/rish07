@@ -19,11 +19,11 @@ Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and Deep Learning Enthusiast �
 - 👨🏽‍💻 I’m currently working on making myself better everyday! 🏆
 - 🌱 I’m currently learning Flutter and Deep Learning
 - 👯 I’m looking to collaborate on [Huesofthemind](https://github.com/rish07/huesofthemind) 🤝
-- 🤔 I’m looking to help with mental health issues. Check out my page [@huesofthemind](https://www.instagram.com/huesofthemind/)
-- 💬 Ask me about anything, I am happy to help
+- 🤔 I’m looking to help with mental health awareness. Check out my page [@huesofthemind](https://www.instagram.com/huesofthemind/)
+- 💬 Ask me about anything, I am happy to help :)
 - ⚡️ Fun-Fact: I am an instrumentalist and a music composer too! I like playing several instruments 🎹 🎸
 - 📫 How to reach me: rishirajsinghchhabra@gmail.com
-- 📝[Resume](https://docs.google.com/document/d/1tQ5AEyRUK91WEy_XbajAOPcZKbv_pCyNtYjCTiyda28/view)
+- 📝 [Resume](https://docs.google.com/document/d/1tQ5AEyRUK91WEy_XbajAOPcZKbv_pCyNtYjCTiyda28/view)
 
 
 
