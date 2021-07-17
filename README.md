@@ -32,7 +32,7 @@ Hi, I'm Rishi Raj Singh, a Flutter DeveloperðŸ“± and Deep Learning Enthusiast ðŸ
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish07&" alt="rish07" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rish07)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rish07)   -->
 
 
 
