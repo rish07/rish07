@@ -11,28 +11,29 @@
 <br />
 <br />
 
-Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and Deep Learning Enthusiast 🚀 from India. Currently, studying in Vellore Institute Of Technology, Vellore. 
+Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and Deep Learning Enthusiast 🚀 from India. Currently, working as a Product Engineer at [threedots](https://threedots.app/). 
   <img align="right" alt="GIF" src="https://i.ibb.co/XWbDB2s/memoji-removebg-preview.png" width = 300px />
   
 **About me:**
 
 - 👨🏽‍💻 I’m currently working on making myself better everyday! 🏆
-- 🌱 I’m currently learning Flutter and Deep Learning
-- 👯 I’m looking to collaborate on [Huesofthemind](https://github.com/rish07/huesofthemind) 🤝
-- 🤔 I’m looking to help with mental health awareness. Check out my page [@huesofthemind](https://www.instagram.com/huesofthemind/)
+- 🌱 I’m currently learning Flutter and Go-lang.
 - 💬 Ask me about anything, I am happy to help :)
 - ⚡️ Fun-Fact: I am an instrumentalist and a music composer too! I like playing several instruments 🎹 🎸
-- 📫 How to reach me: rishirajsinghchhabra@gmail.com
-- 📝 [Resume](https://docs.google.com/document/d/1tQ5AEyRUK91WEy_XbajAOPcZKbv_pCyNtYjCTiyda28/view)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishirajsinghchhabra/)
 
 
+**Some stats**
 
-![Rishi's github stats](https://github-readme-stats.vercel.app/api?username=rish07&show_icons=true&hide_border=true)
+![](https://komarev.com/ghpvc/?username=rish07&color=447ff7&label=Visitor+count)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rish07&" alt="rish07" /></p>
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rish07)   -->
+<p align="center">
+  <a href="https://github.com/rish07">
+    <img src="https://github-readme-stats.vercel.app/api?username=rish07&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rish07&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=rish07&theme=react-dark" />
+</a>
+</p>
 
 
 
