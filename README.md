@@ -36,4 +36,3 @@ Hi, I'm Rishi Raj Singh, a Flutter DeveloperğŸ“± and Deep Learning Enthusiast ğŸ
 </p>
 
 
-
