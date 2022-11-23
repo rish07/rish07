@@ -1,6 +1,6 @@
 ### Hey 👋🏽, I'm [Rishi!](https://rishirajsingh.tech) 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rish07&label=Profile%20views&color=0e75b6&style=flat" alt="rish07" /> </p>
+
 <a href="https://www.linkedin.com/in/rishirajsinghchhabra/">
   <img align="left" alt="Rishi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -25,7 +25,7 @@ Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and Deep Learning Enthusiast �
 
 **Some stats**
 
-![](https://komarev.com/ghpvc/?username=rish07&color=447ff7&label=Visitor+count)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rish07&label=Profile%20views&color=0e75b6&style=flat" alt="rish07" /> </p>
 
 <p align="center">
   <a href="https://github.com/rish07">
