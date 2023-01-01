@@ -11,13 +11,13 @@
 <br />
 <br />
 
-Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and Deep Learning Enthusiast 🚀 from India. Currently, working as a Product Engineer at [threedots](https://threedots.app/). 
+Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and a tech Enthusiast 🚀 from India. Currently, working as a Product Engineer at [threedots](https://threedots.app/). 
   <img align="right" alt="GIF" src="https://i.ibb.co/XWbDB2s/memoji-removebg-preview.png" width = 300px />
   
 **About me:**
 
 - 👨🏽‍💻 I’m currently working on making myself better everyday! 🏆
-- 🌱 I’m currently learning Flutter and Go-lang.
+- 🌱 I’m currently learning Go-lang.
 - 💬 Ask me about anything, I am happy to help :)
 - ⚡️ Fun-Fact: I am an instrumentalist and a music composer too! I like playing several instruments 🎹 🎸
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rishirajsinghchhabra/)
