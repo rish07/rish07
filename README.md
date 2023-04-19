@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and a tech Enthusiast 🚀 from India. Currently, working as a Product Engineer at [threedots](https://threedots.app/). 
+Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and a tech Enthusiast 🚀 from India. Currently, working as a Product Engineer at [Lenskart](https://lenskart.com/). 
   <img align="right" alt="GIF" src="https://i.ibb.co/XWbDB2s/memoji-removebg-preview.png" width = 300px />
   
 **About me:**
