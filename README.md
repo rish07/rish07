@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Rishi Raj Singh, a Flutter Developer📱 and a tech Enthusiast 🚀 from India. Currently, working as an SDE at [Lenskart](https://lenskart.com/). 
+Hi, I'm Rishi Raj Singh, a Fullstack Developer📱 and a tech Enthusiast 🚀 from India. Currently, working as an SDE2 at [Licious](https://www.licious.in/)
   <img align="right" alt="GIF" src="https://i.ibb.co/XWbDB2s/memoji-removebg-preview.png" width = 300px />
   
 **About me:**
