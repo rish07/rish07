@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="896" height="280" viewBox="0 0 896 280" role="img" aria-labelledby="title desc">
   <title id="title">Rishiraj Singh Chhabra</title>
-  <desc id="desc">Fullstack Founding Engineer at Boldfit. Building the tech foundation from the ground up.</desc>
+  <desc id="desc">Fullstack Founding Engineer at Boldfit. Distributed systems, event-driven backends, store-scale product.</desc>
   <style>
     .bg { fill: #ffffff; }
     .surface { fill: #f6f8fa; }
@@ -74,10 +74,10 @@
     <text class="muted" x="40" y="152" font-size="18">Fullstack &#183; Boldfit</text>
   </g>
   <g class="ln ln4">
-    <text class="muted" x="40" y="186" font-size="14">Building the tech foundation from the ground up.</text>
+    <text class="muted" x="40" y="186" font-size="14">Distributed systems. Event-driven backends. Store-scale product.</text>
   </g>
   <g class="ln ln5">
-    <text class="muted" x="40" y="242" font-size="12">Bengaluru &#183; Flutter, TypeScript, Go</text>
+    <text class="muted" x="40" y="242" font-size="12">Bangalore &#183; Java, Dart, Spring Boot, Kafka</text>
   </g>
 
   <g transform="translate(572, 52)" aria-hidden="true">

@@ -49,9 +49,9 @@
   <g class="col c2">
     <rect class="tick" x="332" y="28" width="16" height="2" rx="1"/>
     <text class="label" x="332" y="52" font-size="11">Before</text>
-    <text class="body" x="332" y="80" font-size="15">SDE-2 Licious &#183; orders path</text>
-    <text class="muted" x="332" y="102" font-size="13">Lenskart HOP POS, 2,000+ stores</text>
-    <text class="muted" x="332" y="120" font-size="13">Flutter lead at threedots</text>
+    <text class="body" x="332" y="80" font-size="15">SDE II Licious &#183; 70K orders/day</text>
+    <text class="muted" x="332" y="102" font-size="13">Lenskart POS, 2000+ stores</text>
+    <text class="muted" x="332" y="120" font-size="13">Product Engineer, threedots</text>
   </g>
 
   <line x1="604" y1="24" x2="604" y2="124" stroke="#d0d7de" stroke-width="1"/>
@@ -59,8 +59,8 @@
   <g class="col c3">
     <rect class="tick" x="628" y="28" width="16" height="2" rx="1"/>
     <text class="label" x="628" y="52" font-size="11">Also</text>
-    <text class="body" x="628" y="80" font-size="15">MLH Fellow Fall '20</text>
-    <text class="muted" x="628" y="102" font-size="13">VIT ECE IoT &#183; issued patent</text>
-    <text class="muted" x="628" y="120" font-size="13">Composer and instrumentalist</text>
+    <text class="body" x="628" y="80" font-size="15">SIH 2020 National Finalist</text>
+    <text class="muted" x="628" y="102" font-size="13">Patent: Epilexa seizure detection</text>
+    <text class="muted" x="628" y="120" font-size="13">Paper: 5G slicing for drones</text>
   </g>
 </svg>

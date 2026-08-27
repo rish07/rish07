@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img src="./assets/banner-dark.svg" alt="Rishiraj Singh Chhabra — Fullstack Founding Engineer at Boldfit. Building the tech foundation from the ground up." width="896">
+    <img src="./assets/banner-dark.svg" alt="Rishiraj Singh Chhabra — Fullstack Founding Engineer at Boldfit. Distributed systems, event-driven backends, store-scale product." width="896">
   </picture>
 </p>
 
@@ -20,14 +20,15 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/context-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/context-light.svg">
-    <img src="./assets/context-dark.svg" alt="Now: Fullstack Founding Engineer at Boldfit. Before: SDE-2 at Licious, Lenskart HOP POS in 2,000+ stores, Flutter lead at threedots. Also: MLH Fellow Fall 2020, VIT ECE IoT, issued patent." width="896">
+    <img src="./assets/context-dark.svg" alt="Now: Fullstack Founding Engineer at Boldfit. Before: SDE II at Licious (70K orders/day), Lenskart POS in 2000+ stores, Product Engineer at threedots. Also: SIH 2020 National Finalist, Epilexa patent, 5G drones publication." width="896">
   </picture>
 </p>
 
 <p align="center">
   Fullstack Founding Engineer at <a href="https://boldfit.com">Boldfit</a>
-  · previously <a href="https://www.licious.in">Licious</a>
-  and <a href="https://www.lenskart.com">Lenskart</a>
+  · previously <a href="https://www.licious.in">Licious</a>,
+  <a href="https://www.lenskart.com">Lenskart</a>,
+  and threedots
 </p>
 
 ---
@@ -35,48 +36,48 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>Store-scale product</strong><br>
-      Built Lenskart’s HOP POS for iOS, Android, and iPadOS, now in 2,000+ stores, plus firmware that pushed eye-test data off legacy machines.
+      <strong>Licious — SDE II</strong><br>
+      Owned order, payment, wallet, and checkout services at 70K orders/day and 3000 req/s. Kafka event-driven path; JVM memory from 95% to 40%.
     </td>
     <td width="50%" valign="top">
-      <strong>Order path</strong><br>
-      SDE-2 on Licious orders: high-availability processing and APIs. Team won Licious Hackd, powered by AWS.
+      <strong>Lenskart — Software Developer</strong><br>
+      Led a POS platform across 2000+ stores (40% better inventory accuracy). Eye-test firmware cut manual errors by 80%.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Product from MVP</strong><br>
-      Flutter lead at threedots: in-app builder so managers shipped without a release, CI/CD, and 50+ features from MVP.
+      <strong>threedots — Product Engineer</strong><br>
+      Shipped 50+ features from MVP to scale. Dynamic app builder cut release time from 2 weeks to 2 days. CI/CD doubled velocity.
     </td>
     <td width="50%" valign="top">
-      <strong>Research and open source</strong><br>
-      MLH Fellow Fall ’20. Shipped <a href="https://github.com/MLH-Fellowship/pod_1.0.2_kaal">Kaal</a>. SIH 2020 national finalist. Issued patent: Epilexa (202041052457).
+      <strong>Achievements</strong><br>
+      Smart India Hackathon 2020 National Finalist. Patent: Epilexa, real-time IoT seizure detection. Publication: 5G network slicing for drones.
     </td>
   </tr>
 </table>
 
-<p align="center"><strong>Product</strong></p>
+<p align="center"><strong>Languages</strong></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=dart,flutter,ts,react&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=dart,flutter,ts,react&theme=light">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,ts,react&theme=dark" alt="Dart, Flutter, TypeScript, React">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,dart&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,dart&theme=light">
+    <img src="https://skillicons.dev/icons?i=java,dart&theme=dark" alt="Java, Dart">
   </picture>
 </p>
-<p align="center"><strong>Systems</strong></p>
+<p align="center"><strong>Backend and data</strong></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,nodejs,python,postgres&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go,nodejs,python,postgres&theme=light">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,python,postgres&theme=dark" alt="Go, Node.js, Python, Postgres">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=spring,kafka,mysql,mongodb,redis&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,kafka,mysql,mongodb,redis&theme=light">
+    <img src="https://skillicons.dev/icons?i=spring,kafka,mysql,mongodb,redis&theme=dark" alt="Spring Boot, Kafka, MySQL, MongoDB, Redis">
   </picture>
 </p>
-<p align="center"><strong>Ship</strong></p>
+<p align="center"><strong>Infrastructure</strong></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=gcp,docker,githubactions,firebase&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=gcp,docker,githubactions,firebase&theme=light">
-    <img src="https://skillicons.dev/icons?i=gcp,docker,githubactions,firebase&theme=dark" alt="GCP, Docker, GitHub Actions, Firebase">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,kubernetes&theme=light">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="Docker, Kubernetes">
   </picture>
 </p>
 
@@ -117,9 +118,9 @@
 
 ---
 
-I write and play as seriously as I ship. Piano, guitar, and original composition sit next to the engineering.
+Piano and guitar on the side. Engineering first.
 
-[rishirajsingh.tech](https://rishirajsingh.tech) · [LinkedIn](https://www.linkedin.com/in/rishirajsinghchhabra/) · [X](https://x.com/rishc07)
+[rishirajsingh.tech](https://rishirajsingh.tech) · [LinkedIn](https://www.linkedin.com/in/rishirajsinghchhabra/) · [GitHub](https://github.com/rish07) · [rishi07.work@gmail.com](mailto:rishi07.work@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rish07&label=Profile+views&color=8b949e&style=flat" alt="Profile views">
