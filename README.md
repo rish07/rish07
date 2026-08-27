@@ -1,8 +1,8 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img src="./assets/hero-dark.svg" alt="Rishi Raj Singh — Founding Engineer at Boldfit. Full-stack systems, store-scale product, and a studio on the side." width="896">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
+    <img src="./assets/banner-dark.svg" alt="Rishi Raj Singh — Founding Engineer at Boldfit. Full-stack systems, store-scale product, and a studio on the side." width="896">
   </picture>
 </p>
 
@@ -18,9 +18,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/now-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/now-light.svg">
-    <img src="./assets/now-dark.svg" alt="Now: Founding Engineer at Boldfit. Before: SDE-2 at Licious, Lenskart HOP POS in 2,000+ stores, Flutter lead at threedots. Also: MLH Fellow Fall 2020, VIT ECE IoT, composer and instrumentalist." width="896">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/context-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/context-light.svg">
+    <img src="./assets/context-dark.svg" alt="Now: Founding Engineer at Boldfit. Before: SDE-2 at Licious, Lenskart HOP POS in 2,000+ stores, Flutter lead at threedots. Also: MLH Fellow Fall 2020, VIT ECE IoT, composer and instrumentalist." width="896">
   </picture>
 </p>
 
