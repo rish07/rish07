@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="896" height="280" viewBox="0 0 896 280" role="img" aria-labelledby="title desc">
-  <title id="title">Rishi Raj Singh</title>
-  <desc id="desc">Founding Engineer at Boldfit. Full-stack systems, store-scale product, and a studio on the side.</desc>
+  <title id="title">Rishiraj Singh Chhabra</title>
+  <desc id="desc">Fullstack Founding Engineer at Boldfit. Building the tech foundation from the ground up.</desc>
   <style>
     .bg { fill: #ffffff; }
     .surface { fill: #f6f8fa; }
@@ -64,21 +64,20 @@
   <rect class="surface" x="548" y="28" width="320" height="224" rx="12"/>
 
   <g class="ln ln1">
-    <text class="label" x="40" y="56" font-size="11">Studio engineer</text>
+    <text class="label" x="40" y="56" font-size="11">Founding engineer</text>
   </g>
   <g class="ln ln2">
-    <text class="text" x="40" y="108" font-size="40">Rishi Raj Singh</text>
-    <rect class="accent" x="40" y="118" width="56" height="2" rx="1"/>
+    <text class="text" x="40" y="104" font-size="32">Rishiraj Singh Chhabra</text>
+    <rect class="accent" x="40" y="114" width="72" height="2" rx="1"/>
   </g>
   <g class="ln ln3">
-    <text class="muted" x="40" y="156" font-size="18">Founding Engineer &#183; Boldfit</text>
+    <text class="muted" x="40" y="152" font-size="18">Fullstack &#183; Boldfit</text>
   </g>
   <g class="ln ln4">
-    <text class="muted" x="40" y="186" font-size="14">Full-stack systems, store-scale product,</text>
-    <text class="muted" x="40" y="206" font-size="14">and a studio on the side.</text>
+    <text class="muted" x="40" y="186" font-size="14">Building the tech foundation from the ground up.</text>
   </g>
   <g class="ln ln5">
-    <text class="muted" x="40" y="242" font-size="12">Bengaluru &#183; Go, Flutter, TypeScript</text>
+    <text class="muted" x="40" y="242" font-size="12">Bengaluru &#183; Flutter, TypeScript, Go</text>
   </g>
 
   <g transform="translate(572, 52)" aria-hidden="true">

@@ -39,9 +39,9 @@
   <g class="col c1">
     <rect class="tick" x="28" y="28" width="16" height="2" rx="1"/>
     <text class="label" x="28" y="52" font-size="11">Now</text>
-    <text class="body" x="28" y="80" font-size="15">Founding Engineer at Boldfit</text>
-    <text class="muted" x="28" y="102" font-size="13">Building the tech foundation</text>
-    <text class="muted" x="28" y="120" font-size="13">for health and fitness at scale.</text>
+    <text class="body" x="28" y="80" font-size="15">Fullstack Founding Engineer</text>
+    <text class="muted" x="28" y="102" font-size="13">Building tech at Boldfit</text>
+    <text class="muted" x="28" y="120" font-size="13">from the ground up.</text>
   </g>
 
   <line x1="308" y1="24" x2="308" y2="124" stroke="#21262d" stroke-width="1"/>
@@ -60,7 +60,7 @@
     <rect class="tick" x="628" y="28" width="16" height="2" rx="1"/>
     <text class="label" x="628" y="52" font-size="11">Also</text>
     <text class="body" x="628" y="80" font-size="15">MLH Fellow Fall '20</text>
-    <text class="muted" x="628" y="102" font-size="13">VIT ECE  IoT  issued patent</text>
+    <text class="muted" x="628" y="102" font-size="13">VIT ECE IoT &#183; issued patent</text>
     <text class="muted" x="628" y="120" font-size="13">Composer and instrumentalist</text>
   </g>
 </svg>

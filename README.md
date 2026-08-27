@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-    <img src="./assets/banner-dark.svg" alt="Rishi Raj Singh — Founding Engineer at Boldfit. Full-stack systems, store-scale product, and a studio on the side." width="896">
+    <img src="./assets/banner-dark.svg" alt="Rishiraj Singh Chhabra — Fullstack Founding Engineer at Boldfit. Building the tech foundation from the ground up." width="896">
   </picture>
 </p>
 
@@ -20,12 +20,12 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/context-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/context-light.svg">
-    <img src="./assets/context-dark.svg" alt="Now: Founding Engineer at Boldfit. Before: SDE-2 at Licious, Lenskart HOP POS in 2,000+ stores, Flutter lead at threedots. Also: MLH Fellow Fall 2020, VIT ECE IoT, composer and instrumentalist." width="896">
+    <img src="./assets/context-dark.svg" alt="Now: Fullstack Founding Engineer at Boldfit. Before: SDE-2 at Licious, Lenskart HOP POS in 2,000+ stores, Flutter lead at threedots. Also: MLH Fellow Fall 2020, VIT ECE IoT, issued patent." width="896">
   </picture>
 </p>
 
 <p align="center">
-  Founding Engineer at <a href="https://boldfit.com">Boldfit</a>
+  Fullstack Founding Engineer at <a href="https://boldfit.com">Boldfit</a>
   · previously <a href="https://www.licious.in">Licious</a>
   and <a href="https://www.lenskart.com">Lenskart</a>
 </p>
@@ -40,17 +40,17 @@
     </td>
     <td width="50%" valign="top">
       <strong>Order path</strong><br>
-      SDE-2 on Licious orders: high-availability processing, APIs, and the systems behind fulfillment at food-delivery scale.
+      SDE-2 on Licious orders: high-availability processing and APIs. Team won Licious Hackd, powered by AWS.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>Open source</strong><br>
-      MLH Fellow Fall ’20. Shipped <a href="https://github.com/MLH-Fellowship/pod_1.0.2_kaal">Kaal</a>, a productivity suite with a CLI and a Discord bot.
+      <strong>Product from MVP</strong><br>
+      Flutter lead at threedots: in-app builder so managers shipped without a release, CI/CD, and 50+ features from MVP.
     </td>
     <td width="50%" valign="top">
-      <strong>Issued patent</strong><br>
-      Epilexa — real-time seizure detection and alerting, a wearable IoT device (202041052457).
+      <strong>Research and open source</strong><br>
+      MLH Fellow Fall ’20. Shipped <a href="https://github.com/MLH-Fellowship/pod_1.0.2_kaal">Kaal</a>. SIH 2020 national finalist. Issued patent: Epilexa (202041052457).
     </td>
   </tr>
 </table>
