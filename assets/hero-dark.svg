@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="896" height="280" viewBox="0 0 896 280" role="img" aria-labelledby="title desc">
+  <title id="title">Rishi Raj Singh</title>
+  <desc id="desc">Founding Engineer at Boldfit. Full-stack systems, store-scale product, and a studio on the side.</desc>
+  <style>
+    .bg { fill: #0d1117; }
+    .surface { fill: #161b22; }
+    .rule { stroke: #21262d; stroke-width: 1; }
+    .accent { fill: #e8b86d; }
+    .mint { fill: #6ee7b7; }
+    .text {
+      fill: #e6edf3;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      letter-spacing: -0.03em;
+    }
+    .muted {
+      fill: #8b949e;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      letter-spacing: 0;
+    }
+    .label {
+      fill: #e8b86d;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+    }
+    .cell { fill: #21262d; }
+    .cell-l { fill: #3d3420; }
+    .cell-m { fill: #8a6d32; }
+    .cell-h { fill: #e8b86d; }
+    .cell-a { fill: #6ee7b7; }
+    .ln { animation: rise 1.2s cubic-bezier(0.22, 1, 0.36, 1) both; }
+    .ln2 { animation-delay: 0.1s; }
+    .ln3 { animation-delay: 0.2s; }
+    .ln4 { animation-delay: 0.32s; }
+    .ln5 { animation-delay: 0.44s; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(12px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .bar {
+      animation: wave 1.55s ease-in-out infinite;
+      transform-origin: 0 0;
+    }
+    .b2 { animation-delay: 0.12s; }
+    .b3 { animation-delay: 0.24s; }
+    .b4 { animation-delay: 0.08s; }
+    .b5 { animation-delay: 0.32s; }
+    .b6 { animation-delay: 0.18s; }
+    .b7 { animation-delay: 0.4s; }
+    .b8 { animation-delay: 0.28s; }
+    @keyframes wave {
+      0%, 100% { transform: scaleY(0.38); }
+      50% { transform: scaleY(1); }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .ln, .bar { animation: none !important; }
+    }
+  </style>
+
+  <rect class="bg" width="896" height="280"/>
+  <rect class="surface" x="548" y="28" width="320" height="224" rx="12"/>
+
+  <g class="ln ln1">
+    <text class="label" x="40" y="56" font-size="11">Studio engineer</text>
+  </g>
+  <g class="ln ln2">
+    <text class="text" x="40" y="108" font-size="40">Rishi Raj Singh</text>
+    <rect class="accent" x="40" y="118" width="56" height="2" rx="1"/>
+  </g>
+  <g class="ln ln3">
+    <text class="muted" x="40" y="156" font-size="18">Founding Engineer · Boldfit</text>
+  </g>
+  <g class="ln ln4">
+    <text class="muted" x="40" y="186" font-size="14">Full-stack systems, store-scale product,</text>
+    <text class="muted" x="40" y="206" font-size="14">and a studio on the side.</text>
+  </g>
+  <g class="ln ln5">
+    <text class="muted" x="40" y="242" font-size="12">Bengaluru · Go, Flutter, TypeScript</text>
+  </g>
+
+  <!-- Contribution grid: 14 weeks × 7 days -->
+  <g transform="translate(572, 52)" aria-hidden="true">
+    <rect class="cell"   x="0"   y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="0"   y="14" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="0"   y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="0"   y="42" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="0"   y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="0"   y="70" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="0"   y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell-l" x="14"  y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="14"  y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="14"  y="28" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="14"  y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="14"  y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="14"  y="70" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="14"  y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell"   x="28"  y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell"   x="28"  y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="28"  y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="28"  y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="28"  y="56" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="28"  y="70" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="28"  y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell-m" x="42"  y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="42"  y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-a" x="42"  y="28" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="42"  y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="42"  y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="42"  y="70" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="42"  y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell"   x="56"  y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="56"  y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="56"  y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="56"  y="42" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="56"  y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="56"  y="70" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="56"  y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell-l" x="70"  y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell"   x="70"  y="14" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="70"  y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="70"  y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="70"  y="56" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="70"  y="70" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="70"  y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell-h" x="84"  y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="84"  y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="84"  y="28" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="84"  y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="84"  y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-a" x="84"  y="70" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="84"  y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell"   x="98"  y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="98"  y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="98"  y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="98"  y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="98"  y="56" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="98"  y="70" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="98"  y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell-m" x="112" y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell"   x="112" y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="112" y="28" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="112" y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="112" y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="112" y="70" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="112" y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell"   x="126" y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="126" y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="126" y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="126" y="42" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="126" y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="126" y="70" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="126" y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell-l" x="140" y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell"   x="140" y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-a" x="140" y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="140" y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="140" y="56" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="140" y="70" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="140" y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell-m" x="154" y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="154" y="14" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="154" y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="154" y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="154" y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="154" y="70" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="154" y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell"   x="168" y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="168" y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="168" y="28" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="168" y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="168" y="56" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="168" y="70" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="168" y="84" width="10" height="10" rx="2"/>
+
+    <rect class="cell-l" x="182" y="0"  width="10" height="10" rx="2"/>
+    <rect class="cell"   x="182" y="14" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="182" y="28" width="10" height="10" rx="2"/>
+    <rect class="cell-h" x="182" y="42" width="10" height="10" rx="2"/>
+    <rect class="cell-m" x="182" y="56" width="10" height="10" rx="2"/>
+    <rect class="cell-l" x="182" y="70" width="10" height="10" rx="2"/>
+    <rect class="cell"   x="182" y="84" width="10" height="10" rx="2"/>
+  </g>
+
+  <!-- Waveform sitting on the grid baseline -->
+  <g transform="translate(620, 214)" aria-hidden="true">
+    <g transform="translate(0,0)"><g class="bar b1"><rect class="accent" x="0" y="-48" width="8" height="48" rx="2"/></g></g>
+    <g transform="translate(16,0)"><g class="bar b2"><rect class="accent" x="0" y="-78" width="8" height="78" rx="2"/></g></g>
+    <g transform="translate(32,0)"><g class="bar b3"><rect class="mint"   x="0" y="-58" width="8" height="58" rx="2"/></g></g>
+    <g transform="translate(48,0)"><g class="bar b4"><rect class="accent" x="0" y="-96" width="8" height="96" rx="2"/></g></g>
+    <g transform="translate(64,0)"><g class="bar b5"><rect class="accent" x="0" y="-44" width="8" height="44" rx="2"/></g></g>
+    <g transform="translate(80,0)"><g class="bar b6"><rect class="mint"   x="0" y="-86" width="8" height="86" rx="2"/></g></g>
+    <g transform="translate(96,0)"><g class="bar b7"><rect class="accent" x="0" y="-36" width="8" height="36" rx="2"/></g></g>
+    <g transform="translate(112,0)"><g class="bar b8"><rect class="accent" x="0" y="-68" width="8" height="68" rx="2"/></g></g>
+  </g>
+</svg>

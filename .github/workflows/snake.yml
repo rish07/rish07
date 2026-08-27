@@ -1,0 +1,36 @@
+name: Generate contribution graphics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate snakes
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake-light.svg?palette=github-light&color_snake=#e8b86d
+            assets/snake-dark.svg?palette=github-dark&color_snake=#e8b86d
+
+      - name: Generate activity chart
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER_NAME: ${{ github.repository_owner }}
+        run: node .github/scripts/generate-activity.mjs
+
+      - name: Commit graphics
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update contribution graphics
+          file_pattern: assets/snake-*.svg assets/activity-*.svg
