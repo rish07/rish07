@@ -9,11 +9,11 @@
 <p align="center">
   <a href="https://rishirajsingh.tech"><img src="./assets/icon-site.svg" width="22" height="22" alt="Website"></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rish07"><img src="https://cdn.simpleicons.org/github/8b949e" width="22" height="22" alt="GitHub"></a>
+  <a href="https://github.com/rish07"><img src="./assets/icon-github.svg" width="22" height="22" alt="GitHub"></a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rishirajsinghchhabra/"><img src="https://cdn.simpleicons.org/linkedin/8b949e" width="22" height="22" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rishirajsinghchhabra/"><img src="./assets/icon-linkedin.svg" width="22" height="22" alt="LinkedIn"></a>
   &nbsp;&nbsp;
-  <a href="https://x.com/rishc07"><img src="https://cdn.simpleicons.org/x/8b949e" width="22" height="22" alt="X"></a>
+  <a href="https://x.com/rishc07"><img src="./assets/icon-x.svg" width="22" height="22" alt="X"></a>
 </p>
 
 <p align="center">

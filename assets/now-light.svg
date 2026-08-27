@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="896" height="148" viewBox="0 0 896 148" role="img" aria-labelledby="title">
   <title id="title">Now, before, and also</title>
   <style>
@@ -48,7 +49,7 @@
   <g class="col c2">
     <rect class="tick" x="332" y="28" width="16" height="2" rx="1"/>
     <text class="label" x="332" y="52" font-size="11">Before</text>
-    <text class="body" x="332" y="80" font-size="15">SDE-2 Licious · orders path</text>
+    <text class="body" x="332" y="80" font-size="15">SDE-2 Licious &#183; orders path</text>
     <text class="muted" x="332" y="102" font-size="13">Lenskart HOP POS, 2,000+ stores</text>
     <text class="muted" x="332" y="120" font-size="13">Flutter lead at threedots</text>
   </g>
@@ -58,8 +59,8 @@
   <g class="col c3">
     <rect class="tick" x="628" y="28" width="16" height="2" rx="1"/>
     <text class="label" x="628" y="52" font-size="11">Also</text>
-    <text class="body" x="628" y="80" font-size="15">MLH Fellow Fall 20</text>
-    <text class="muted" x="628" y="102" font-size="13">VIT ECE · IoT · issued patent</text>
+    <text class="body" x="628" y="80" font-size="15">MLH Fellow Fall '20</text>
+    <text class="muted" x="628" y="102" font-size="13">VIT ECE  IoT  issued patent</text>
     <text class="muted" x="628" y="120" font-size="13">Composer and instrumentalist</text>
   </g>
 </svg>
